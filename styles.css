@@ -1,2 +1,6 @@
-
-/* Your CSS Code here. */
+#form{
+	padding:1rem;
+	border:1px solid #A35C7A;
+	border-radius:15px;
+	background-color:#C890A7;
+}
